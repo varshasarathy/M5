@@ -172,7 +172,8 @@ int main() {
 }
 ```
  ## OUTPUT
-![437918997-82416810-0009-4cb7-9976-41b26f2d0302](https://github.com/user-attachments/assets/6a3c7d4a-e77e-4b08-ac06-90b25cee7fa8)
+ 
+![image](https://github.com/user-attachments/assets/9924b10f-7884-4d6e-9976-c6fc7836f591)
 
 ## RESULT
 
